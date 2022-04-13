@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dunia Musik</string>
+    <string name="desc">Image</string>
+    <string name="cari">Cari</string>
+    <string name="promo">PROMO SAAT INI!!!</string>
+    <string name="gitar">Taylor 214CE Acoustic-Electric Guitar</string>
+    <string name="harga">Rp16.000.000</string>
+    <string name="beli">Beli</string>
+    <string name="produk_baru">Produk Terbaru</string>
+    <string name="lihat">Lihat</string>
+    <string name="gitar1">Guitar Taylor AC142</string>
+    <string name="harga_produk">Rp12.350.000</string>
+    <string name="produk_lain">Produk Lainnya</string>
+    <string name="email">E-Mail</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="welcome">Selamat Datang di Dunia Musik</string>
+    <string name="login">Log In</string>
+    <string name="forgot">Forgot Password?</string>
+</resources>
