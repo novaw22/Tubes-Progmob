@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DuniaMusik">
         <activity
+            android:name=".CartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailProduct"
+            android:exported="false" />
+        <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity

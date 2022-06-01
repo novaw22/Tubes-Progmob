@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SettingFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            tools:ignore="UseCompoundDrawables">
+            <ImageView
+                android:id="@+id/help"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/ic_help"
+                android:onClick="openWebsite"
+                android:contentDescription="@string/desc"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="Informasi"
+                android:textSize="20sp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            tools:ignore="UseCompoundDrawables">
+            <ImageView
+                android:id="@+id/mode"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/ic_mode"
+                android:contentDescription="@string/desc" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="Mode"
+                android:textSize="20sp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            tools:ignore="UseCompoundDrawables">
+            <ImageView
+                android:id="@+id/notif"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/ic_notif"
+                android:contentDescription="@string/desc" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="Pengaturan Notifikasi"
+                android:textSize="20sp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            tools:ignore="UseCompoundDrawables">
+            <ImageView
+                android:id="@+id/chat"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/ic_baseline_chat_24"
+                android:contentDescription="@string/desc" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="Pengaturan Pesan"
+                android:textSize="20sp"/>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

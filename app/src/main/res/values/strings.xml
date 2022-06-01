@@ -8,7 +8,7 @@
     <string name="beli">Beli</string>
     <string name="produk_baru">Produk Terbaru</string>
     <string name="lihat">Lihat</string>
-    <string name="gitar1">Guitar Taylor AC142</string>
+    <string name="gitar1">Guitar Taylor 214CE Rosewood</string>
     <string name="harga_produk">Rp12.350.000</string>
     <string name="produk_lain">Produk Lainnya</string>
     <string name="email">E-Mail</string>
@@ -19,4 +19,39 @@
     <string name="welcome">Selamat Datang di Dunia Musik</string>
     <string name="login">Log In</string>
     <string name="forgot">Forgot Password?</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+
+    <string-array name="product_name_strings">
+        <item>Guitar Taylor 214CE Rosewood</item>
+        <item>Violin Samuel Eastman VL-80</item>
+        <item>Piano STEINWAY K-132</item>
+        <item>Drum TAMA ML62HZBNS</item>
+    </string-array>
+    <string-array name="product_price_strings">
+        <item>Rp12.350.000</item>
+        <item>Rp6.500.000</item>
+        <item>Rp50.000.000</item>
+        <item>Rp32.550.000</item>
+    </string-array>
+    <string-array name="product_thumbnail_strings">
+        <item>product1</item>
+        <item>biola</item>
+        <item>pianoo</item>
+        <item>drumm</item>
+    </string-array>
+    <string-array name="product_description_strings">
+        <item>Deskripsi : Guitar Taylor 214CE berukuran(Panjang 20, Lebar 16) dengan tipe tubuh Taylor Grand Auditorium.
+                          Pembelian produk mendapatkan garansi selama 1 tahun</item>
+        <item>Violin Samuel Eastman VL-80 berukuran(Panjang 15, Lebar 10) .
+                          Pembelian produk mendapatkan garansi selama 1 tahun</item>
+        <item>Piano STEINWAY K-132 berukuran(Panjang 100, Lebar 70) .
+                          Pembelian produk mendapatkan garansi selama 1 tahun</item>
+        <item>Drum TAMA ML62HZBNS berukuran(Panjang 80, Lebar 70) dengan full set drum.
+                          Pembelian produk mendapatkan garansi selama 1 tahun</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
+

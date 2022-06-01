@@ -6,19 +6,41 @@
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/buttonColor.xml" value="0.1" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/button_color.xml" value="0.1" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/buttoncolor.xml" value="0.2595" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/buttonstyleithgradient.xml" value="0.139" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/card_produk.xml" value="0.2355" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/form.xml" value="0.2595" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/gradientbackground.xml" value="0.139" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.139" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.139" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_email.xml" value="0.139" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_help.xml" value="0.139" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_home.xml" value="0.1075" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_location.xml" value="0.116" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_mode.xml" value="0.139" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_notif.xml" value="0.116" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_person.xml" value="0.116" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_profile.xml" value="0.116" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_setting.xml" value="0.116" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/ic_shopping_cart.xml" value="0.116" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/layout_bg.xml" value="0.2595" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/list.xml" value="0.2595" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/logo.xml" value="0.2595" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/product.xml" value="0.2595" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/drawable/promo.xml" value="0.2595" />
-        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/activity_dashboard.xml" value="0.21581920903954802" />
-        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/activity_main.xml" value="0.152" />
-        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/activity_register.xml" value="0.152" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/activity_cart.xml" value="0.264" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/activity_cart_row.xml" value="0.2" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/activity_dashboard.xml" value="0.10400000000000001" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/activity_detail_product.xml" value="0.2575599582898853" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/cart_row.xml" value="0.2" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/coba_layout.xml" value="0.2" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/dashboard.xml" value="0.136" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/fragment_home.xml" value="0.2390745501285347" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/fragment_setting.xml" value="0.2" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/layout/tes.xml" value="0.1" />
         <entry key="..\:/Documents/AndroidStudioProjects/DuniaMusik/app/src/main/res/menu/bottom_navbar.xml" value="0.23854166666666668" />
       </map>
     </option>
